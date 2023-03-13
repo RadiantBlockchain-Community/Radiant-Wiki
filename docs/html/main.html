@@ -1,0 +1,59 @@
+<!-- Elements added to main will be displayed on all pages -->
+
+{% extends "base.html" %}
+
+<!-- Google Tag Manager -->
+{% block libs %}
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@RXD_Comunnity" />
+<meta name="twitter:title" content="Radiant4people" />
+<meta name="twitter:description" content="It is a system that is used in Bitcoin and works very well for the following wallets that are compatible with Radiant" />
+<meta name="twitter:image" content="https://radiant4people.com/title-radiant.png" />
+
+<meta property="og:image" content="https://radiant4people.com/title-radiant.png" />
+<meta property="og:image:secure_url" content="https://radiant4people.com/title-radiant.png" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="2500" />
+<meta property="og:image:height" content="2500" />
+<meta property="og:image:alt" content="Radiant for people" />
+<script>
+var gtmId = 'GTM-TQPKQK7';
+if (typeof window !== 'undefined' && window.location.href.includes('127.0.0.1')) {
+  gtmId = 'GTM-XXX'
+}
+(function(w,d,s,l,i){
+  w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer', gtmId);
+</script>
+{% endblock %}
+
+<!-- Announcement bar -->
+{% block announce %}
+  <style>.md-announce a,.md-announce a:focus,.md-announce a:hover{color:currentColor}.md-announce strong{white-space:nowrap}.md-announce .twitter{margin-left:.2em;color:#00acee}</style>
+    <a href="https://github.com/RadiantBlockchain/radiant-node"><strong>Radiant Node 1.2.0 Zeus</strong></a>
+{% endblock %}
+
+<!-- More minimal footer -->
+{% block footer %}
+<footer class="md-footer">
+    <div class="md-footer-meta md-typeset">
+        <div class="md-footer-meta__inner md-grid">
+            <!-- Copyright and theme information -->
+            <div class="md-footer-copyright">
+                {% if config.copyright %}
+                <div class="md-footer-copyright__highlight">
+                    {{ config.copyright }}
+                </div>
+                {% endif %}
+            </div>
+            {% block social %}
+            {% include "partials/social.html" %}
+            {% endblock %}
+        </div>
+    </div>
+</footer>
+{% endblock %}
