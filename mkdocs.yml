@@ -1,0 +1,123 @@
+site_name: Radiant4people
+site_url: https://radiant4people.com
+site_description: Radiant4people
+
+copyright: Radiant4people 2023
+
+nav:
+    - Home: 'index.md'
+#    - Colaborate: 'colaborate/index.md'
+    - Tech: 
+      - index: tech/index.md
+      - Whitepaper: 
+        - English: tech/whitepaper/index.md
+        - Spanish: tech/whitepaper/spanish.md     
+        - Chinese: tech/whitepaper/chinese.md
+      - Radiant System Design: tech/radiant-system-design/index.md
+      - REP: tech/rep/index.md
+    - Programming: 
+      - Programming: programming/index.md
+      - Rad Scryptlib: programming/rad-scryptlib/index.md
+      - Scrypt Boilerplate: programming/scrypt-boilerplate/index.md
+      - Radiant Script: 
+        - Home: programming/radiantscript/index.md
+        - About RXD:
+          - programming/radiantscript/basics/about-rxd.md
+          - programming/radiantscript/basics/about.md
+          - programming/radiantscript/basics/cli.md
+          - programming/radiantscript/basics/getting-started.md
+        - Guides:
+          - programming/radiantscript/guides/covenants.md
+          - programming/radiantscript/guides/syntax-highlighting.md
+        - Language:
+          - programming/radiantscript/language/artifacts.md
+          - programming/radiantscript/language/contracts.md
+          - programming/radiantscript/language/examples.md
+          - programming/radiantscript/language/functions.md
+          - programming/radiantscript/language/globals.md
+          - programming/radiantscript/language/grammar.md
+          - programming/radiantscript/language/types.md
+        - SDK:
+          - programming/radiantscript/sdk/examples.md
+          - programming/radiantscript/sdk/instantiation.md
+          - programming/radiantscript/sdk/transactions.md
+        - Releases:
+          - programming/radiantscript/releases/migration-notes.md
+          - programming/radiantscript/releases/release-notes.md
+    - Guides: 
+        - Home: guides/index.md
+        - Electron:
+              - Home: guides/electron/index.md
+              - First use: guides/electron/first-use/index.md
+              - Restore: guides/electron/restore-wallet/index.md
+              - Create multisign: guides/electron/create-multisign-wallet/index.md
+        - Flux: 
+              - Home: guides/flux/index.md
+        - Docker: 
+              - Home: guides/docker/index.md
+        - Radiant:              
+              - Mining Solo: guides/mining/index.md
+              - Compile Node: guides/node/compile/index.md
+ 
+    - F.A.Q.: 'FAQ/index.md' 
+    - Roadmap: 'roadmap/index.md' 
+    - Links: 'links/index.md' 
+theme:
+  name: material
+  logo: img/radiant-logo-transparent.png
+  favicon: img/radiant-logo-transparent.png
+  custom_dir: docs/html/
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate 
+    - toc.follow
+    #- navigation.expand
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+extra:
+  consent:
+    title: Cookie consent
+    actions:
+    - accept
+    - reject
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RXD_Community
+    - icon: fontawesome/brands/github
+      link: https://github.com/RadiantBlockchain
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@RadiantLayerOne
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/radiantcommunity
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/radiantblockchain
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/RadiantBlockchain
+  generator: false
+markdown_extensions: 
+  - attr_list
+  - md_in_html
