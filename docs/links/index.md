@@ -55,6 +55,7 @@ hide:
 - **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
+- **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
 
 ## Market Info
