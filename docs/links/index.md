@@ -52,6 +52,7 @@ hide:
 
 ## Exchanges
 
+- **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
@@ -61,7 +62,7 @@ hide:
 ## Market Info
 
 - **Coinmarketcap:** [https://coinmarketcap.com/currencies/radiant](https://coinmarketcap.com/currencies/radiant)
-- **Coinsgecko:** [https://www.coingecko.com/en/coins/radiant](https://www.coingecko.com/en/coins/radiant)
+- **CoinGecko:** [https://www.coingecko.com/en/coins/radiant](https://www.coingecko.com/en/coins/radiant)
 - **Coinpaprika:** [https://coinpaprika.com/coin/rxd-radiant](https://coinpaprika.com/coin/rxd-radiant)
 - **Hashrate/Difficulty chart:** [https://radiant.ovh/grafica](https://radiant.ovh/grafica)
 
