@@ -11,6 +11,7 @@ nav:
       - index: tech/index.md
       - Whitepaper: 
         - English: tech/whitepaper/index.md
+        - Indonesia: tech/whitepaper/indonesia.md
         - Spanish: tech/whitepaper/spanish.md     
         - Chinese: tech/whitepaper/chinese.md
       - Radiant System Design: tech/radiant-system-design/index.md
