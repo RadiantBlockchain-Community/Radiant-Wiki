@@ -48,11 +48,11 @@ hide:
 ## Wallets
 
 - **Wallet Electron 0.1.4 (Win / Linux /Mac):** [https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4](https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4)
+- **CHAINBOW 2.0.0 (MAC/iOS/Android):** [https://chainbow.io/](https://chainbow.io/)
 - **SAMARA 1.0.2 (Chrome/Brave):** [https://samara.app](https://samara.app)
-- **CHAINBOW 2.0.0 Beta(ALL SO):** [https://chainbow.io/](https://chainbow.io/)
 
 ## Exchanges
-
+- **BKEX:**  [https://www.bkex.com](https://www.bkex.com)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
