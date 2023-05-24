@@ -52,13 +52,14 @@ hide:
 - **SAMARA 1.0.2 (Chrome/Brave):** [https://samara.app](https://samara.app)
 
 ## Exchanges
-- **BKEX:**  [https://www.bkex.com](https://www.bkex.com)
+- **BKEX:**  [https://www.bkex.com](https://www.bkex.com/register/U2UANNXY)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
-- **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
+- **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
+- **XBTS:** [https://xbts.io](https://ex.xbts.io/market/XBTSX.RXD_XBTSX.USDT)
 
 ## Market Info
 
