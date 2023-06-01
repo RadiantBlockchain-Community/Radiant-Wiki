@@ -40,6 +40,7 @@ The above contract is composed of two outputs. A singleton ref has been assigned
 We can now handle token transfers using only the P2PKH output and not have to touch the rest of the contract. Since the token contract doesn't contain the P2PKH script, only a pay to ref, it is automatically carried forward with the transfer. For wallets to support transfers of this token, they only need to handle a simple singleton + P2PKH script and not be concerned with custom functionality or parsing custom contract templates.
 
 ----DIAGRAM----
+![](img/pay2ref.png)
 > Transferring control of a token contract
 
 The two singletons are best created as a contiguous set, so if any script needs to read from another part of the contract, it can check for the existence of a ref within its own set to verify the authenticity of the input. This also makes it easy for wallets to find all parts of the contract.
