@@ -17,7 +17,7 @@ Following Radiant's ref rules, the ref must match an outpoint or a ref of the sa
 
 -------DIAGRAM-------
 img/simple-nft.png
-![DIAGRAM SIMPLE NFT](/img/simple-nft.png)
+![DIAGRAM SIMPLE NFT](img/simple-nft.png)
 
 > Mint and transfer of an NFT, followed by an invalid transaction
 
