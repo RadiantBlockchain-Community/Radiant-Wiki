@@ -16,6 +16,8 @@ OP_DUP OP_HASH160 <pubKeyHash> OP_EQUALVERIFY OP_CHECKSIG
 Following Radiant's ref rules, the ref must match an outpoint or a ref of the same type in an input. If the ref matches an outpoint then this is the "mint" transaction. `OP_PUSHINPUTREFSINGLETON` leaves the ref on the stack, and since we don't need it later in the script it is immediately dropped.
 
 -------DIAGRAM-------
+img/simple-nft.png
+![DIAGRAM SIMPLE NFT](/img/simple-nft.png)
 
 > Mint and transfer of an NFT, followed by an invalid transaction
 
