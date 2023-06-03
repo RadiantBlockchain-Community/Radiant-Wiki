@@ -20,14 +20,14 @@ nav:
       - Radiant System Design: tech/radiant-system-design/index.md
       - REP: tech/rep/index.md
     - Programming: 
-      - Programming: programming/index.md
+      - Programming:
+          - programming/radiant/opcode_summary.md
+          - programming/radiant/pay-to-ref.md
+          - programming/radiant/simple-nft.md
       - Rad Scryptlib: programming/rad-scryptlib/index.md
       - Scrypt Boilerplate: programming/scrypt-boilerplate/index.md
       - Radiant Script: 
         - Home: programming/radiantscript/index.md
-          - programming/radiant/opcode_summary.md
-          - programming/radiant/pay-to-ref.md
-          - programming/radiant/simple-nft.md
         - About RXD:
           - programming/radiantscript/basics/about-rxd.md
           - programming/radiantscript/basics/about.md
