@@ -25,6 +25,9 @@ nav:
       - Scrypt Boilerplate: programming/scrypt-boilerplate/index.md
       - Radiant Script: 
         - Home: programming/radiantscript/index.md
+          - programming/radiant/opcode_summary.md
+          - programming/radiant/pay-to-ref.md
+          - programming/radiant/simple-nft.md
         - About RXD:
           - programming/radiantscript/basics/about-rxd.md
           - programming/radiantscript/basics/about.md
