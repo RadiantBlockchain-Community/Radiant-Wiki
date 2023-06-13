@@ -115,3 +115,23 @@ EOL
 ## **Start node**
 
 ![](https://raw.githubusercontent.com/Antares-ES/Radiant-Guides/main/Compile-Node/img/09-UBUNTU-22_04_start-node.png)
+
+## **Set up node for testnet**
+
+To start your node in testnet run the following command
+
+```
+radiantd -testnet -daemon
+```
+
+You probably need to establish a connection to a node already running on testnet. You can check if you have any connections and if the node is synching by checking 
+```
+radiant-cli -testnet -getinfo
+```
+If you dont have any connections and the block count is 0 you will need to manually connect to a testnet node. To find nodes already running head on over to https://explorer-testnet.radiantblockchain.org/peers. There you will find a list over IPs that you can connect to. Choose one and replace the x'ed out IP in the command:
+
+```
+radiant-cli -testnet addnode xxx.xxx.xxx.xxx add
+```
+
+Now you should be able to see the connections and the node will sync.
