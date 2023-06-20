@@ -82,6 +82,7 @@ hide:
 - **Poolmine:** [https://poolmine.tk](https://poolmine.tk)
 - **Deepfields:** [https://deepfields.io](https://deepfields.io)
 - **Cryptopool:** [https://cryptopool.one](https://cryptopool.one)
+- **Coinminerz:** [https://coinminerz.com/pool/Radiant](https://coinminerz.com/pool/Radiant)
 
 
 ## Miner Software
