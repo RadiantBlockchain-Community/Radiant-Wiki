@@ -66,6 +66,9 @@ hide:
 - **Coinmarketcap:** [https://coinmarketcap.com/currencies/radiant](https://coinmarketcap.com/currencies/radiant)
 - **CoinGecko:** [https://www.coingecko.com/en/coins/radiant](https://www.coingecko.com/en/coins/radiant)
 - **Coinpaprika:** [https://coinpaprika.com/coin/rxd-radiant](https://coinpaprika.com/coin/rxd-radiant)
+- **CryptoRank:** [https://cryptorank.io/price/radiant](https://cryptorank.io/price/radiant)
+- **LiveCoinWatch:** [https://www.livecoinwatch.com/price/Radiant-RXD](https://www.livecoinwatch.com/price/Radiant-RXD)
+- **CoinCodex:** [https://coincodex.com/crypto/radiant/](https://coincodex.com/crypto/radiant/)
 - **Hashrate/Difficulty chart:** [https://radiant.ovh/grafica](https://radiant.ovh/grafica)
 
 # Miner Stuff
@@ -79,6 +82,7 @@ hide:
 - **Poolmine:** [https://poolmine.tk](https://poolmine.tk)
 - **Deepfields:** [https://deepfields.io](https://deepfields.io)
 - **Cryptopool:** [https://cryptopool.one](https://cryptopool.one)
+- **Coinminerz:** [https://coinminerz.com/pool/Radiant](https://coinminerz.com/pool/Radiant)
 
 
 ## Miner Software
@@ -87,6 +91,7 @@ hide:
 - **rad-bfgminer (AMD/NVIDIA):** [https://github.com/RadiantBlockchain/rad-bfgminer/releases](https://github.com/RadiantBlockchain/rad-bfgminer/releases)
 - **srbminer(AMD):** [https://github.com/doktor83/SRBMiner-Multi/releases](https://github.com/doktor83/SRBMiner-Multi/releases)
 - **bzminer:** [https://www.bzminer.com](https://www.bzminer.com)
+- **Rigel (NVIDIA):** [https://github.com/rigelminer/rigel/releases/](https://github.com/rigelminer/rigel/releases/)
 - **wildrig:** [https://github.com/andru-kun/wildrig-multi/releases](https://github.com/andru-kun/wildrig-multi/releases)
 - **MiningPoolStats:** [https://miningpoolstats.stream/radiant](https://miningpoolstats.stream/radiant)
 - **Minerstats:** [https://minerstat.com/coin/RXD](https://minerstat.com/coin/RXD)
