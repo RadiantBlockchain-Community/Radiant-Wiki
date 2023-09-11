@@ -9,16 +9,16 @@ hide:
 
 Radiant is peer-to-peer programmable digital asset system based off a fork of the genesis block of BCH. It adds new OPcodes that allow for turing completeness and mathematical induction proofs, which allow for solving the back to genesis problem. This makes Radiant a breakthrough design which provides the performance and parallelism benefits of an unspent transaction output (UTXO) blockchain, but with the contracting ability of account-based blockchains based on the Ethereum Virtual Machine (EVM).
 
-*-POW, Smart Contract capable, fairly launched, big block Blockchain. 
--Block 0 fork of BCH with added functionality.
--Hashing algorithm is SHA512256d.
--Difficulty algorithm is ASERT DAA.
--Genesis Date: 20/06/2022 02:42:50 GMT+0000
--Genesis Hash: 0000000065d8ed5d8be28d6876b3ffb660ac2a6c0ca59e437e1f7a6f4e003fb4
--Block Time: 300 seconds / 5 minutes
--Halving: 2 years (every 210,000 blocks)
--Subsidy emission: 50000 per block
--Total Coins: 21 Billion, with 8 decimal places for each*
+* - POW, Smart Contract capable, fairly launched, big block Blockchain. 
+ - Block 0 fork of BCH with added functionality.
+ - Hashing algorithm is SHA512256d.
+ - Difficulty algorithm is ASERT DAA.
+ - Genesis Date: 20/06/2022 02:42:50 GMT+0000
+ - Genesis Hash: 0000000065d8ed5d8be28d6876b3ffb660ac2a6c0ca59e437e1f7a6f4e003fb4
+ - Block Time: 300 seconds / 5 minutes
+ - Halving: 2 years (every 210,000 blocks)
+ - Subsidy emission: 50000 per block
+ - Total Coins: 21 Billion, with 8 decimal places for each*
 
 ## What makes Radiant stand out from other blockchain platforms?
 -Induction Proofs that solve the back-to-genesis problem. No indexers ever required. 
