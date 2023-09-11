@@ -21,11 +21,11 @@ Radiant is peer-to-peer programmable digital asset system based off a fork of th
  - Total Coins: 21 Billion, with 8 decimal places for each
 
 ## What makes Radiant stand out from other blockchain platforms?
--Induction Proofs that solve the back-to-genesis problem. No indexers ever required. 
--Account Emulation allows for EVM like applications.
--Turing complete scripting language: RadiantScript. 
--0conf feature allows for instant transactions.
--Split Node System allows for scalability
+ - Induction Proofs that solve the back-to-genesis problem. No indexers ever required. 
+ - Account Emulation allows for EVM like applications.
+ - Turing complete scripting language: RadiantScript. 
+ - 0conf feature allows for instant transactions.
+ - Split Node System allows for scalability
 
 ## How was Radiant fairly launched?
 Radiant was bootstrapped as a ready-to-use, 100% PoW blockchain with no investors, no ICO, no premine, and no coin allocations. Before Radiant mining went online, guides on how to mine and even how to rent hash online to mine it without having GPUs were released publicly by Attoshi, Radiant's dev. Everyone was able to obtain RXD from day 1, ensuring a fair distribution.
