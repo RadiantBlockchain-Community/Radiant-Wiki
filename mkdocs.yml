@@ -17,6 +17,7 @@ nav:
         - Indonesia: tech/whitepaper/indonesia.md
         - Spanish: tech/whitepaper/spanish.md     
         - Chinese: tech/whitepaper/chinese.md
+      - RCR (Radiant Community Report): tech/RCR/index.md  
       - Radiant System Design: tech/radiant-system-design/index.md
       - REP: tech/rep/index.md
     - Programming: 
