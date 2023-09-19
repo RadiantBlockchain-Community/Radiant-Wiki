@@ -22,7 +22,9 @@ Radiant is a peer-to-peer programmable digital asset system, derived from a fork
  - Total Coins: 21 billion, divisible into 8 decimal places
 
 ## What makes Radiant stand out from other blockchain platforms?
+
 Radiant stands out for several reasons:
+
  - Induction Proofs that solve the "back-to-genesis" problem without the need for indexers.
  - Account Emulation, enabling Ethereum Virtual Machine (EVM)-like applications.
  - A Turing-complete scripting language known as RadiantScript.
@@ -46,6 +48,9 @@ Radiant was specifically designed to transition from GPU mining to ASIC mining f
 
 ## Why is the block time 5 minutes?
 A 5-minute block time offers faster transaction confirmations compared to Bitcoin (BTC) while maintaining stability and security by minimizing orphan blocks. With block sizes of up to 256MB and the potential for even larger blocks, selecting the right block time is essential. In Radiant, the block time, thanks to its features, does not directly limit transactions per second or transaction speed.
+
+### How many transactions per second can Radiant achieve?
+With the current block size of 256MB, Radiant is capable of doing 1000tx/sec. If needed, miners can optimize in the future to scale linearly. For example, with 3GB blocks, 20,000tx/sec can be achieved.
 
 
 ## What are the benefits of Radiant’s tokenomics?
