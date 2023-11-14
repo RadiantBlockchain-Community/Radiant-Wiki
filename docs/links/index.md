@@ -79,10 +79,10 @@ hide:
 - **Woolypooly:** [https://woolypooly.com](https://woolypooly.com)
 - **Rplant:** [https://pool.rplant.xyz/#radiant](https://pool.rplant.xyz/#radiant)
 - **Poolmine:** [https://poolmine.tk](https://poolmine.tk)
-
 - **Cryptopool:** [https://cryptopool.one](https://cryptopool.one)
 
-
+## Pools Testnet
+- **Satopool:**[https://satopool.com/#rxd-testnet](https://satopool.com/#rxd-testnet)
 
 ## Miner Software
 
