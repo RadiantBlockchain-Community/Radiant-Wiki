@@ -36,28 +36,25 @@ hide:
 
 ## Social Network
 
+- **Discord:** [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
+- **Telegram:** [https://t.me/RadiantBlockchain](https://t.me/RadiantBlockchain)
 - **Medium:** [https://medium.com/@RadiantLayerOne](https://medium.com/@RadiantLayerOne)
 - **Medium Community:** [https://radiant-community.medium.com/](https://radiant-community.medium.com/)
 - **Reddit:** [https://www.reddit.com/r/Radiant_RXD](https://www.reddit.com/r/Radiant_RXD)
 - **Twitter:** [https://twitter.com/RadiantLayerOne](https://twitter.com/RadiantLayerOne)
 - **Twitter Community:** [https://twitter.com/RXD_Community](https://twitter.com/RXD_Community)
-- **Telegram:** [https://t.me/RadiantBlockchain](https://t.me/RadiantBlockchain)
-- **Discord:** [https://discord.gg/radiantblockchain](https://discord.gg/radiantblockchain)
 - **Bitcointalk:** [https://bitcointalk.org/index.php?topic=5436028;all](https://bitcointalk.org/index.php?topic=5436028)
 
 ## Wallets
 
 - **Wallet Electron 0.1.4 (Win / Linux /Mac):** [https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4](https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4)
 - **CHAINBOW 2.0.0 (MAC/iOS/Android):** [https://chainbow.io/](https://chainbow.io/)
-- **SAMARA 1.0.2 (Chrome/Brave):** [https://samara.app](https://samara.app)
 
 ## Exchanges
-- **BKEX:**  [https://www.bkex.com](https://www.bkex.com/register/U2UANNXY)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
-- **Txbit:** [https://txbit.io](https://txbit.io/?r=35af4)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
-- **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
+- **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
 - **XBTS:** [https://xbts.io](https://ex.xbts.io/market/XBTSX.RXD_XBTSX.USDT)
 
@@ -76,23 +73,27 @@ hide:
 ## Pools
 
 - **Rxdpool:** [https://rxdpool.com/#rad1](https://rxdpool.com/#rad1)
+- **Coinminerz:** [https://coinminerz.com/pool/Radiant](https://coinminerz.com/pool/Radiant)
+- **Deepfields:** [https://deepfields.io](https://deepfields.io)
 - **Vipor:** [https://vipor.net](https://vipor.net)
 - **Woolypooly:** [https://woolypooly.com](https://woolypooly.com)
 - **Rplant:** [https://pool.rplant.xyz/#radiant](https://pool.rplant.xyz/#radiant)
 - **Poolmine:** [https://poolmine.tk](https://poolmine.tk)
-- **Deepfields:** [https://deepfields.io](https://deepfields.io)
+
 - **Cryptopool:** [https://cryptopool.one](https://cryptopool.one)
-- **Coinminerz:** [https://coinminerz.com/pool/Radiant](https://coinminerz.com/pool/Radiant)
+
 
 
 ## Miner Software
 
 - **ccminer+hiveos (NVIDIA):** [https://github.com/radifier/radiator/releases](https://github.com/radifier/radiator/releases)
 - **rad-bfgminer (AMD/NVIDIA):** [https://github.com/RadiantBlockchain/rad-bfgminer/releases](https://github.com/RadiantBlockchain/rad-bfgminer/releases)
-- **srbminer(AMD):** [https://github.com/doktor83/SRBMiner-Multi/releases](https://github.com/doktor83/SRBMiner-Multi/releases)
-- **bzminer:** [https://www.bzminer.com](https://www.bzminer.com)
+- **BZminer (AMD/Nvidia):** [https://www.bzminer.com](https://www.bzminer.com)
+- **SRBminer (AMD/Nvidia):** [https://github.com/doktor83/SRBMiner-Multi/releases](https://github.com/doktor83/SRBMiner-Multi/releases)
 - **Rigel (NVIDIA):** [https://github.com/rigelminer/rigel/releases/](https://github.com/rigelminer/rigel/releases/)
-- **wildrig:** [https://github.com/andru-kun/wildrig-multi/releases](https://github.com/andru-kun/wildrig-multi/releases)
+- **wildrig (AMD/Nvidia):** [https://github.com/andru-kun/wildrig-multi/releases](https://github.com/andru-kun/wildrig-multi/releases)
+- **Gminer (AMD/Nvidia):** [https://github.com/develsoftware/GMinerRelease/releases](https://github.com/develsoftware/GMinerRelease/releases)
+- **lolminer (AMD/Nvidia):** [https://github.com/Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases)
 - **MiningPoolStats:** [https://miningpoolstats.stream/radiant](https://miningpoolstats.stream/radiant)
 - **Minerstats:** [https://minerstat.com/coin/RXD](https://minerstat.com/coin/RXD)
 - **Hashrateno:** [https://hashrate.no](https://hashrate.no)
