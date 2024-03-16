@@ -4,25 +4,31 @@ Token-controlled contracts revolutionize contract composition and management on 
 
 
 ## Script Details
+
 **Token Input**
+
 A standard singleton + P2PKH token script:
 ```
 OP_PUSHINPUTREFSINGLETON <tokenRef> OP_DROP <p2pkh>
 ```
+
 **Token Output**
-The token output features a state script binding it to the contract input using ´OP_REQUIREINPUTREF' , followed by the contract's script signature hash:
+
+The token output features a state script binding it to the contract input using ´OP_REQUIREINPUTREF´ , followed by the contract's script signature hash:
 ```
 OP_REQUIREINPUTREF <contractRef>
 <contractScriptSigHash> OP_2DROP // Hash256 of contract's script sig
 OP_STATESEPARATOR
 OP_PUSHINPUTREFSINGLETON <tokenRef> OP_DROP <p2pkh> // Standard token script
 ```
+
 **Script Sig**
 ```
 <hashIndex> // Position of ref + hash in token output
 <refIndex> // Index of ref in token output data summary
 <outputIndex> // Output index of token
 ```
+
 **Script Pub Key**
 ```
 // Contract ref
@@ -39,6 +45,7 @@ OP_INPUTINDEX OP_CODESCRIPTBYTECODE_UTXO OP_HASH256 OP_CODESCRIPTHASHOUTPUTCOUNT
 // Contract code...
 // 
 ```
+
 This script empowers complex contracts composed of multiple UTXOs, each with unique responsibilities. Token scripts maintain standard scripts easily understood by wallets but can be associated with custom contracts. Pay to token contracts can be deployed at any time to expand token functionality.
 
 ## Advantages
