@@ -7,7 +7,7 @@ Token-controlled contracts revolutionize contract composition and management on 
 **Token Input**
 A standard singleton + P2PKH token script:
 ```
-<REF> OP_PUSHINPUTREFSINGLETON <tokenRef> OP_DROP <p2pkh>
+OP_PUSHINPUTREFSINGLETON <tokenRef> OP_DROP <p2pkh>
 ```
 **Token Output**
 The token output features a state script binding it to the contract input using ´OP_REQUIREINPUTREF' , followed by the contract's script signature hash:
