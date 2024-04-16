@@ -25,6 +25,7 @@ nav:
           - programming/radiant/opcode_summary.md
           - programming/radiant/pay-to-ref.md
           - programming/radiant/simple-nft.md
+          - programming/radiant/pay-to-token.md
       - Rad Scryptlib: programming/rad-scryptlib/index.md
       - Scrypt Boilerplate: programming/scrypt-boilerplate/index.md
       - Radiant Script: 
