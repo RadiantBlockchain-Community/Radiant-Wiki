@@ -17,6 +17,16 @@ nav:
         - Indonesia: tech/whitepaper/indonesia.md
         - Spanish: tech/whitepaper/spanish.md     
         - Chinese: tech/whitepaper/chinese.md
+      - Glyph: 
+        - Overview: tech/glyph-explain/overview.md
+        - Encoding: tech/glyph-explain/encoding.md
+        - Fungible Tokens: tech/glyph-explain/fungible.md
+        - Non-Fungible Tokens: tech/glyph-explain/nonfungible.md
+        - Relationships: tech/glyph-explain/relationships.md
+        - Links: tech/glyph-explain/links.md  
+        - Mutable Tokens: tech/glyph-explain/mutable.md
+        - Decentralized mints: tech/glyph-explain/dmint.md
+        - ElectrumX: tech/glyph-explain/electrumx.md
       - RCR (Radiant Community Report): tech/RCR/index.md  
       - Radiant System Design: tech/radiant-system-design/index.md
       - REP: tech/rep/index.md
