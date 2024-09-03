@@ -6,6 +6,7 @@ hide:
 
 - **Website:** [https://radiantblockchain.org](https://radiantblockchain.org)
 - **Website Community:** [https://radiant4people.com](https://radiant4people.com)
+- **Website Community2:** [https://radiantblockchain.xyz](https://radiantblockchain.xyz)
 - **Whitepaper:** [https://radiantblockchain.org/radiant.pdf](https://radiantblockchain.org/radiant.pdf)
 - **System Design:** [https://radiant4people.com/tech/radiant-system-design](https://radiant4people.com/tech/radiant-system-design)
 - **What is Radiant?:** [https://www.youtube.com/watch?v=B-UWB7iC7O4](https://www.youtube.com/watch?v=B-UWB7iC7O4)
@@ -31,8 +32,7 @@ hide:
 
 ### Testnet Explorers
 
-- **Explorer 1:** [https://testnet.radiantexplorer.com](https://testnet.radiantexplorer.com)
-- **Explorer 2:** [https://explorer-testnet.radiantblockchain.org](https://explorer-testnet.radiantblockchain.org)
+- **Explorer 1:** [https://explorer-testnet.radiantblockchain.org](https://explorer-testnet.radiantblockchain.org)
 
 ## Social Network
 
@@ -49,11 +49,14 @@ hide:
 
 - **Wallet Electron 0.1.4 (Win / Linux /Mac):** [https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4](https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4)
 - **CHAINBOW 2.0.0 (MAC/iOS/Android):** [https://chainbow.io/](https://chainbow.io/)
+- **Tangem Hardware Wallet (Mobile with NFC):** [https://tangem.com](https://tangem.com)
 
 ## Exchanges
+- **MEXC:** [https://www.mexc.com](https://www.mexc.com/exchange/RXD_USDT)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
 - **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
+- **Digifinex:** [https://freiexchange.com](https://www.digifinex.com/en-ww/trade/USDT/RXD)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
 - **XBTS:** [https://xbts.io](https://ex.xbts.io/market/XBTSX.RXD_XBTSX.USDT)
@@ -69,6 +72,12 @@ hide:
 - **Hashrate/Difficulty chart:** [https://radiant.ovh/grafica](https://radiant.ovh/grafica)
 
 # Miner Stuff
+
+## Token Mining
+
+- **Photonic:** [https://photonic.radiant4people.com](https://photonic.radiant4people.com)
+- **Glyph:** [https://glyph.radiant4people.com](https://glyph.radiant4people.com)
+- **Server-Status:** [https://radiantblockchain-community.github.io/electrumx-check/](https://radiantblockchain-community.github.io/electrumx-check/)
 
 ## Pools
 
