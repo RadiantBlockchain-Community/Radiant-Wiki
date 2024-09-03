@@ -18,6 +18,7 @@ nav:
         - Spanish: tech/whitepaper/spanish.md     
         - Chinese: tech/whitepaper/chinese.md
       - Glyph: 
+        - Introduction: tech/glyph-explain/intro.md
         - Overview: tech/glyph-explain/overview.md
         - Encoding: tech/glyph-explain/encoding.md
         - Fungible Tokens: tech/glyph-explain/fungible.md
