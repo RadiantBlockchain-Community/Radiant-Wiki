@@ -81,14 +81,13 @@ hide:
 
 ## Pools
 
-- **Rxdpool:** [https://rxdpool.com/#rad1](https://rxdpool.com/#rad1)
-- **Coinminerz:** [https://coinminerz.com/pool/Radiant](https://coinminerz.com/pool/Radiant)
-- **Deepfields:** [https://deepfields.io](https://deepfields.io)
 - **Vipor:** [https://vipor.net](https://vipor.net)
+- **Humpool:** [https://humpool.com](https://humpool.com)
+- **TW-pool:** [https://tw-pool.com](https://tw-pool.com)
+- **Kryptex:** [https://pool.kryptex.com/rxd](https://pool.kryptex.com/rxd)
+- **K1pool:** [https://k1pool.com/pool/rxd](https://k1pool.com/pool/rxd)
 - **Woolypooly:** [https://woolypooly.com](https://woolypooly.com)
-- **Rplant:** [https://pool.rplant.xyz/#radiant](https://pool.rplant.xyz/#radiant)
-- **Poolmine:** [https://poolmine.tk](https://poolmine.tk)
-- **Cryptopool:** [https://cryptopool.one](https://cryptopool.one)
+- **Rplant:** [https://pool.rplant.xyz](https://pool.rplant.xyz)
 
 ## Pools Testnet
 - **Satopool:**[https://satopool.com/#rxd-testnet](https://satopool.com/#rxd-testnet)
