@@ -50,12 +50,15 @@ hide:
 - **Wallet Electron 0.1.4 (Win / Linux /Mac):** [https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4](https://github.com/RadiantBlockchain/electron-radiant/releases/tag/v0.1.4)
 - **CHAINBOW 2.0.0 (MAC/iOS/Android):** [https://chainbow.io/](https://chainbow.io/)
 - **Tangem Hardware Wallet (Mobile with NFC):** [https://tangem.com](https://tangem.com)
+- **Photonic (website)**:[https://photonic-test.radiant4people.com/](https://photonic-test.radiant4people.com/)
+- **Photonic (addon)**:[https://chromewebstore.google.com/detail/photonic-wallet/ldagidbelgfoonfhbggfgmlhaccfeepb](https://chromewebstore.google.com/detail/photonic-wallet/ldagidbelgfoonfhbggfgmlhaccfeepb)
 
 ## Exchanges
 - **MEXC:** [https://www.mexc.com](https://www.mexc.com/exchange/RXD_USDT)
 - **CoinEx:** [https://www.coinex.com](https://www.coinex.com/exchange/RXD-USDT)
 - **Tradeogre:** [https://tradeogre.com](https://tradeogre.com)
 - **Xeggex:** [https://xeggex.com](https://xeggex.com/market/RXD_USDT)
+- **XT**: [https://xt.com](https://www.xt.com/en/trade/rxd_usdt)
 - **Digifinex:** [https://freiexchange.com](https://www.digifinex.com/en-ww/trade/USDT/RXD)
 - **Exbitron:**  [https://www.exbitron.com](https://www.exbitron.com)
 - **Freiexchange:** [https://freiexchange.com](https://freiexchange.com)
