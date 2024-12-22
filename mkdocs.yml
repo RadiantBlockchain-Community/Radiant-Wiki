@@ -2,7 +2,7 @@ site_name: Radiant4people
 site_url: https://radiant4people.com
 site_description: Radiant4people
 
-copyright: Radiant4people 2023
+copyright: Radiant4people 2023-2024
 
 nav:
     - Home: 'index.md'
